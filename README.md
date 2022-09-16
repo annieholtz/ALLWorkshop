@@ -28,6 +28,8 @@ Authors: [Marc Meisezahl](https://www.meisezahl.co.uk/), [Shira Tal](https://www
 
 - [Download jsPsych](https://www.github.com/jspsych/jspsych/releases/latest/download/jspsych.zip) (will start immediate download) this will create a zip folder on your computer containing all the files you need to run jsPsych locally on your computer.
 
+- Download a text/source code editor. For example [Atom](https://atom.io/) or [Brackets](https://brackets.io/).
+
 ## Important links
 
 - [Workshop references](https://github.com/annieholtz/ALLWorkshop/blob/main/references.md)
