@@ -30,7 +30,10 @@ Authors: [Marc Meisezahl](https://www.meisezahl.co.uk/), [Shira Tal](https://www
 
 ## Important links
 
+- [Workshop references](https://github.com/annieholtz/ALLWorkshop/blob/main/references.md)
+
 - [jsPsych website](https://www.jspsych.org/7.3/)
 
-- [Full list of references]
+- Full course on [online experiments for language scientists](https://kennysmithed.github.io/oels2021/) (designed by Kenny Smith)
 
+- Tutorial on [using jsPsych to design online experiments](https://softdev.ppls.ed.ac.uk/online_experiments/index.html)
