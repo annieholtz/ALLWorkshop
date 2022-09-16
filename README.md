@@ -26,7 +26,7 @@ Authors: [Marc Meisezahl](https://www.meisezahl.co.uk/), [Shira Tal](https://www
 
 ## TO DO (before workshop)
 
-- Download jsPsych
+- [Download jsPsych](https://www.github.com/jspsych/jspsych/releases/latest/download/jspsych.zip) (will start immediate download) this will create a zip folder on your computer containing all the files you need to run jsPsych locally on your computer.
 
 ## Important links
 
