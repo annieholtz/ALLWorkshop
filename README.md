@@ -41,6 +41,11 @@ Authors: [Marc Meisezahl](https://www.meisezahl.co.uk/), [Shira Tal](https://www
 
 - Image assets for workshop.<a href="images/rounded.png" download> Click to download first</a> and <a href="images/rounded.png" download> click to download second</a>.
 
+- Audio assets for workshop.<a href="audio/bouba.wav" download> Click to download first</a> and <a href="audio/kiki.wav" download> click to download second</a>.
+
+
+## Advanced links
+
 - Full course on [online experiments for language scientists](https://kennysmithed.github.io/oels2021/) (designed by Kenny Smith).
 
 - Tutorial on [using jsPsych to design online experiments](https://softdev.ppls.ed.ac.uk/online_experiments/index.html).
