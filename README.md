@@ -26,7 +26,7 @@ Authors: [Marc Meisezahl](https://www.meisezahl.co.uk/), [Shira Tal](https://www
 
 ## TO DO (before workshop)
 
-- [Download jsPsych](https://www.github.com/jspsych/jspsych/releases/latest/download/jspsych.zip) (will start immediate download) this will create a zip folder on your computer containing all the files you need to run jsPsych locally on your computer.
+- [Download jsPsych](https://github.com/jspsych/jsPsych/releases/download/%40jspsych%2Fplugin-webgazer-validate%401.0.2/jspsych.zip) (will start immediate download) this will create a zip folder on your computer containing all the files you need to run jsPsych locally on your computer.
 
 - Download a text/source code editor. For example [Atom](https://atom.io/) or [Brackets](https://brackets.io/).
 
