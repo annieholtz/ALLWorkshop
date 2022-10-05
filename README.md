@@ -20,6 +20,8 @@ Authors: [Annie Holtz](https://annieholtz.github.io/), [Marc Meisezahl](https://
 
 - From lab to net: introducing the fundamentals of online experimenting 
 
+- What's possible: An online communication experiment
+
 - Getting your experiment on the screen: introduction to jsPysch 
 
 - Q&A 
