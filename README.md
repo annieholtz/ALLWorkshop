@@ -39,7 +39,7 @@ Authors: [Marc Meisezahl](https://www.meisezahl.co.uk/), [Shira Tal](https://www
 
 - Base [HTML file](FirstExperiment1.html) for workshop.
 
-- Image assets for workshop.<a href="images/rounded.png" download> Click to download first</a> and <a href="images/rounded.png" download> click to download second</a>.
+- Image assets for workshop.<a href="images/rounded.png" download> Click to download first</a> and <a href="images/spikey.png" download> click to download second</a>.
 
 - Audio assets for workshop.<a href="audio/bouba.wav" download> Click to download first</a> and <a href="audio/kiki.wav" download> click to download second</a>.
 
