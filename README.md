@@ -1,7 +1,7 @@
 # Artificial Language Learning Workshop - University of Konstanz
 Date: 21/10/2022
 
-Authors: [Marc Meisezahl](https://www.meisezahl.co.uk/), [Shira Tal](https://www.researchgate.net/profile/Shira-Tal-2) and [Annie Holtz](https://annieholtz.github.io/)
+Authors: [Annie Holtz](https://annieholtz.github.io/), [Marc Meisezahl](https://www.meisezahl.co.uk/), and [Shira Tal](https://www.researchgate.net/profile/Shira-Tal-2)
 
 ## Outline
 
