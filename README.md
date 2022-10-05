@@ -39,6 +39,8 @@ Authors: [Annie Holtz](https://annieholtz.github.io/), [Marc Meisezahl](https://
 
 - [jsPsych website](https://www.jspsych.org/7.3/).
 
+- [jsPsych github discussion](https://github.com/jspsych/jsPsych/discussions)
+
 - Base [HTML file](FirstExperiment1.html) for workshop.
 
 - Image assets for workshop.<a href="images/rounded.png" download> Click to download first</a> and <a href="images/spikey.png" download> click to download second</a>.
@@ -50,4 +52,4 @@ Authors: [Annie Holtz](https://annieholtz.github.io/), [Marc Meisezahl](https://
 
 - Full course on [online experiments for language scientists](https://kennysmithed.github.io/oels2021/) (designed by Kenny Smith).
 
-- Tutorial on [using jsPsych to design online experiments](https://softdev.ppls.ed.ac.uk/online_experiments/index.html).
+- Tutorial on [using jsPsych to design online experiments](https://softdev.ppls.ed.ac.uk/online_experiments/index.html) (Designed by Alisdair Tullo).
