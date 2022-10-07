@@ -1,4 +1,4 @@
-# Artificial Language Learning Workshop - University of Konstanz
+# Introduction to Artificial Language Learning Experiments - University of Konstanz
 Date: 21/10/2022
 
 Authors: [Annie Holtz](https://annieholtz.github.io/), [Marc Meisezahl](https://www.meisezahl.co.uk/), and [Shira Tal](https://www.researchgate.net/profile/Shira-Tal-2)
@@ -30,7 +30,7 @@ Authors: [Annie Holtz](https://annieholtz.github.io/), [Marc Meisezahl](https://
 
 - [Download jsPsych](https://github.com/jspsych/jsPsych/releases/download/%40jspsych%2Fplugin-webgazer-validate%401.0.2/jspsych.zip) (will start immediate download) this will create a zip folder on your computer containing all the files you need to run jsPsych locally on your computer.
 
-- Download a text/source code editor. For example [Atom](https://atom.io/) or [Brackets](https://brackets.io/).
+- Download a text/source code editor. For example [Atom](https://atom.io/) (which I will be using) or [Brackets](https://brackets.io/).
 
 
 ## Important links
