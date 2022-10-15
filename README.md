@@ -28,7 +28,9 @@ Authors: [Annie Holtz](https://annieholtz.github.io/), [Marc Meisezahl](https://
 
 ## TO DO (before workshop)
 
-- [Download jsPsych](https://github.com/jspsych/jsPsych/releases/download/%40jspsych%2Fplugin-webgazer-validate%401.0.2/jspsych.zip) (will start immediate download) this will create a zip folder on your computer containing all the files you need to run jsPsych locally on your computer.
+- [Download zip archive](https://github.com/annieholtz/ALLWorkshop/raw/main/starter_kit.zip) with all necessary files to follow this workshop. Unpack the archive on in a location where you can easily access the folder later.
+
+<!-- - [Download jsPsych](https://github.com/jspsych/jsPsych/releases/download/%40jspsych%2Fplugin-webgazer-validate%401.0.2/jspsych.zip) (will start immediate download) this will create a zip folder on your computer containing all the files you need to run jsPsych locally on your computer. -->
 
 - Download a text/source code editor. For example [Atom](https://atom.io/) (which I will be using) or [Brackets](https://brackets.io/).
 
