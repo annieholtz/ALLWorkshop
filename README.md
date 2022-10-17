@@ -54,4 +54,4 @@ Authors: [Annie Holtz](https://annieholtz.github.io/), [Marc Meisezahl](https://
 
 - Tutorial on [using jsPsych to design online experiments](https://softdev.ppls.ed.ac.uk/online_experiments/index.html) (Designed by Alisdair Tullo)
 
-- [Video tutorials](https://www.youtube.com/watch?v=XQcsFwAmbiw) by jsPsych creator Josh de Leeuw
+- [Video tutorials](https://www.youtube.com/c/JoshdeLeeuw) by jsPsych creator Josh de Leeuw
