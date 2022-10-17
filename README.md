@@ -53,3 +53,5 @@ Authors: [Annie Holtz](https://annieholtz.github.io/), [Marc Meisezahl](https://
 - Full course on [online experiments for language scientists](https://kennysmithed.github.io/oels2021/) (designed by Kenny Smith)
 
 - Tutorial on [using jsPsych to design online experiments](https://softdev.ppls.ed.ac.uk/online_experiments/index.html) (Designed by Alisdair Tullo)
+
+- [Video tutorials](https://www.youtube.com/watch?v=XQcsFwAmbiw) by jsPsych creator Josh de Leeuw
