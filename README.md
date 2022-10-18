@@ -9,7 +9,7 @@ Authors: [Annie Holtz](https://annieholtz.github.io/), [Marc Meisezahl](https://
 
 - (Very) brief introduction into the fundamentals of experimental design 
 
-- Artificial language learning experiments: assumptions, advantages & disadvantages 
+- Artificial language learning experiments: paradigms 
 
 - On Schleyer’s roots: designing an artificial language 
 
@@ -28,7 +28,7 @@ Authors: [Annie Holtz](https://annieholtz.github.io/), [Marc Meisezahl](https://
 
 ## TO DO (before workshop)
 
-- [Download zip archive](https://github.com/annieholtz/ALLWorkshop/raw/main/starter_kit.zip) with all necessary files to follow this workshop. Unpack the archive in a location where you can easily access it later.
+- [Download zip archive](https://github.com/annieholtz/ALLWorkshop/raw/main/FirstExperiment.zip) with all necessary files to follow this workshop. Unpack the archive in a location where you can easily access it later.
 
 <!-- - [Download jsPsych](https://github.com/jspsych/jsPsych/releases/download/%40jspsych%2Fplugin-webgazer-validate%401.0.2/jspsych.zip) (will start immediate download) this will create a zip folder on your computer containing all the files you need to run jsPsych locally on your computer. -->
 
@@ -42,8 +42,6 @@ Authors: [Annie Holtz](https://annieholtz.github.io/), [Marc Meisezahl](https://
 - [jsPsych website](https://www.jspsych.org/7.3/)
 
 - [jsPsych github discussion](https://github.com/jspsych/jsPsych/discussions)
-
-- Base [HTML file](FirstExperiment1.html) for workshop
 
 
 
