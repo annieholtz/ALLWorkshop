@@ -24,6 +24,8 @@ Culbertson, J., & Kirby, S. (2016). [Simplicity and specificity in language: Dom
 
 Culbertson, J., & Newport, E. L. (2017). [Innovation of Word Order Harmony Across Development](https://doi.org/10.1162/opmi_a_00010). Open Mind, 1(2), 91–100.
 
+Ćwiek, A., Fuchs, S., Draxler, C., Asu, E. L., Dediu, D., Hiovain, K., Kawahara, S., Koutalidis, S., Krifka, M., Lippus, P., Lupyan, G., Oh, G. E., Paul, J., Petrone, C., Ridouane, R., Reiter, S., Schümchen, N., Szalontai, Á., Ünal-Logacev, Ö., Zeller, J., Perlman, M. & Winter, B. (2022). [The bouba/kiki effect is robust across cultures and writing systems](https://royalsocietypublishing.org/doi/10.1098/rstb.2020.0390). Philosophical Transactions of the Royal Society B, 377(1841), 20200390.
+
 Elazar, A., Alhama, R. G., Bogaerts, L., Siegelman, N., Baus, C., & Frost, R. (2022).[ When the “tabula” is anything but “rasa:” What determines performance in the auditory statistical learning task?](https://doi.org/10.1111/cogs.13102) Cognitive Science, 46(2), 1–17. 
 
 Fehér, O., Ritt, N., & Smith, K. (2019). [Asymmetric accommodation during interaction leads to the regularisation of linguistic variants](https://doi.org/10.1016/j.jml.2019.104036). Journal of Memory and Language, 109, 1–20.
@@ -45,6 +47,8 @@ Horst, J. S., & Hout, M. C. (2016). [The Novel Object and Unusual Name (NOUN) Da
 Hudson Kam, C. L., & Newport, E. L. (2005). [Regularizing unpredictable variation: The roles of adult and child learners in language formation and change](https://doi.org/10.1080/15475441.2005.9684215). Language Learning and Development, 1(2), 151–195.
 
 Hudson Kam, C. L., & Newport, E. L. (2009). [Getting it right by getting it wrong: When learners change languages](https://www.sciencedirect.com/science/article/pii/S0010028509000048). Cognitive psychology, 59(1), 30-66.
+
+Kanwal, J., Smith, K., Culbertson, J., & Kirby, S. (2017). [Zipf’s law of abbreviation and the principle of least effort: Language users optimise a miniature lexicon for efficient communication](https://www.sciencedirect.com/science/article/pii/S0010027717301166). Cognition, 165, 45-52.
 
 Kirby, S. (2001). [Spontaneous evolution of linguistic structure-an iterated learning model of the emergence of regularity and irregularity](https://doi.org/10.1109/4235.918430). IEEE Transactions on Evolutionary Computation, 5(2), 102–110.
 
