@@ -1,5 +1,7 @@
 # Workshop references
 
+Arnon, I., & Ramscar, M. (2012). [Granularity and the acquisition of grammatical gender: How order-of-acquisition affects what gets learned](https://doi.org/10.1016/j.cognition.2011.10.009). Cognition, 122(3), 292–305.
+
 Atkinson, M., Smith, K., & Kirby, S. (2018). [Adult learning and language simplification](https://doi.org/10.1111/cogs.12686). Cognitive Science, 42(8), 2818–2854.
 
 Bartlett, F. C. (1932). [Remembering: A study in experimental and social psychology](https://doi.org/10.1017/CBO9780511759185). Cambridge University Press.
@@ -10,9 +12,11 @@ Berdicevskis, A. (2012). [Introducing pressure for expressivity into language ev
 
 Berdicevskis, A., & Semenuks, A. (2022). [Imperfect language learning reduces morphological overspecification: Experimental evidence](https://doi.org/10.1371/journal.pone.0262876). PLOS ONE, 17(1), 1–26.
 
-Bowerman, J., & Smith, K. (2022). [An experimental study of semantic extension in a novel communication system](https://escholarship.org/uc/item/3x3398ct). Proceedings of the Annual Meeting of the Cognitive Science Society, 44, 163–169.W
+Bowerman, J., & Smith, K. (2022). [An experimental study of semantic extension in a novel communication system](https://escholarship.org/uc/item/3x3398ct). Proceedings of the Annual Meeting of the Cognitive Science Society, 44, 163–169.
 
 Carr, J. W., Smith, K., Cornish, H., & Kirby, S. (2017). [The cultural evolution of structured languages in an open-ended, continuous world](https://doi.org/10.1111/cogs.12371). Cognitive Science, 41(4), 892–923.
+
+Chan, A., Lieven, E., & Tomasello, M. (2009). [Children’s understanding of the agent-patient relations in the transitive construction: Cross-linguistic comparisons between Cantonese, German, and English](https://doi.org/10.1515/COGL.2009.015). Cognitive Linguistics, 20(2), 267–300.
 
 Cornish, H. (2010). [Investigating how cultural transmission leads to the appearance of design without a designer in human communication systems](https://doi.org/10.1075/is.11.1.02cor). Interaction Studies, 11(1), 112–137.
 
@@ -26,6 +30,8 @@ Culbertson, J., & Newport, E. L. (2017). [Innovation of Word Order Harmony Acros
 
 Ćwiek, A., Fuchs, S., Draxler, C., Asu, E. L., Dediu, D., Hiovain, K., Kawahara, S., Koutalidis, S., Krifka, M., Lippus, P., Lupyan, G., Oh, G. E., Paul, J., Petrone, C., Ridouane, R., Reiter, S., Schümchen, N., Szalontai, Á., Ünal-Logacev, Ö., Zeller, J., Perlman, M. & Winter, B. (2022). [The bouba/kiki effect is robust across cultures and writing systems](https://royalsocietypublishing.org/doi/10.1098/rstb.2020.0390). Philosophical Transactions of the Royal Society B, 377(1841), 20200390.
 
+Dittmar, M., Abbot-Smith, K., Lieven, E., & Tomasello, M. (2008). [German children’s comprehension of word order and case marking in causative sentences](https://doi.org/10.1111/j.1467-8624.2008.01181.x). Child Development, 79(4), 1152–1167.
+
 Elazar, A., Alhama, R. G., Bogaerts, L., Siegelman, N., Baus, C., & Frost, R. (2022).[ When the “tabula” is anything but “rasa:” What determines performance in the auditory statistical learning task?](https://doi.org/10.1111/cogs.13102) Cognitive Science, 46(2), 1–17. 
 
 Fehér, O., Ritt, N., & Smith, K. (2019). [Asymmetric accommodation during interaction leads to the regularisation of linguistic variants](https://doi.org/10.1016/j.jml.2019.104036). Journal of Memory and Language, 109, 1–20.
@@ -33,6 +39,8 @@ Fehér, O., Ritt, N., & Smith, K. (2019). [Asymmetric accommodation during inter
 Fehér, O., Wonnacott, E., & Smith, K. (2016). [Structural priming in artificial languages and the regularisation of unpredictable variation](https://doi.org/10.1016/j.jml.2016.06.002). Journal of Memory and Language, 91, 158–180.
 
 Finn, A. S., & Hudson Kam, C. L. (2008). [The curse of knowledge: First language knowledge impairs adult learners’ use of novel statistics for word segmentation](https://doi.org/10.1016/j.cognition.2008.04.002). Cognition, 108(2), 477–499.
+
+Frank, A. F., & Jaeger, T. F. (2008). [Speaking Rationally : Uniform Information Density as an optimal strategy for language production](https://escholarship.org/uc/item/7d08h6j4). Proceedings of the Annual Meeting of the Cognitive Science Society, 30, 939–944.
 
 Galantucci, B., Kroos, C., & Rhodes, T. (2010). [The effects of rapidity of fading on communication systems](https://doi.org/10.1075/bct.45.06gal). Interaction Studies, 11(1), 100–111.
 
@@ -48,6 +56,8 @@ Hudson Kam, C. L., & Newport, E. L. (2005). [Regularizing unpredictable variatio
 
 Hudson Kam, C. L., & Newport, E. L. (2009). [Getting it right by getting it wrong: When learners change languages](https://www.sciencedirect.com/science/article/pii/S0010028509000048). Cognitive psychology, 59(1), 30-66.
 
+Ibbotson, P., & Tomasello, M. (2009). [Prototype constructions in early language acquisition](https://doi.org/10.1515/LANGCOG.2009.004). Language and Cognition, 1, 59–85. 
+
 Kanwal, J., Smith, K., Culbertson, J., & Kirby, S. (2017). [Zipf’s law of abbreviation and the principle of least effort: Language users optimise a miniature lexicon for efficient communication](https://www.sciencedirect.com/science/article/pii/S0010027717301166). Cognition, 165, 45-52.
 
 Kirby, S. (2001). [Spontaneous evolution of linguistic structure-an iterated learning model of the emergence of regularity and irregularity](https://doi.org/10.1109/4235.918430). IEEE Transactions on Evolutionary Computation, 5(2), 102–110.
@@ -58,13 +68,23 @@ Kirby, S., Griffiths, T., & Smith, K. (2014). [Iterated learning and the evoluti
 
 Kirby, S., Tamariz, M., Cornish, H., & Smith, K. (2015). [Compression and communication in the cultural evolution of linguistic structure](https://doi.org/10.1016/j.cognition.2015.03.016). Cognition, 141, 87–102.
 
+Leufkens, S. (2022). [Measuring redundancy: the relation between concord and complexity](https://doi.org/10.1515/lingvan-2020-0143). Linguistics Vanguard, 1–12.
+
+de Leeuw, J. R. (2015). [jsPsych: A JavaScript library for creating behavioral experiments in a Web browser](https://doi.org/10.3758/s13428-014-0458-y). Behavior Research Methods, 47(1), 1–12.
+
+Lupyan, G., & Dale, R. (2010). [Language structure is partly determined by social structure](https://doi.org/10.1371/journal.pone.0008559). PLoS ONE, 5(1), 1-10.
+
 Martin, A., & Culbertson, J. (2020). [Revisiting the suffixing preference: Native-language affixation patterns influence perception of sequences](https://doi.org/10.1177/0956797620931108). Psychological Science, 31(9), 1107–1116.
 
 Martin, A., Holtz, A., Abels, K., Adger, D., & Culbertson, J. (2020). [Experimental evidence for the influence of structure and meaning on linear order in the noun phrase](https://www.glossa-journal.org/article/id/5345/). Glossa: a journal of general linguistics, 5(1), 1-21.
 
+Matsuo, A., Kita, S., Shinya, Y., Wood, G. C., & Naigles, L. (2012). [Japanese two-year-olds use morphosyntax to learn novel verb meanings](https://doi.org/10.1017/S0305000911000213). Journal of Child Language, 39(3), 637–663.
+
 Motamedi, Y., Schouwstra, M., Smith, K., Culbertson, J., & Kirby, S. (2019). [Evolving artificial sign languages in the lab: From improvised gesture to systematic sign](https://doi.org/10.1016/j.cognition.2019.05.001). Cognition, 192, 103964.
 
 Onnis, L., & Thiessen, E. (2013). [Language experience changes subsequent learning](https://doi.org/10.1016/j.cognition.2012.10.008). Cognition, 126(2), 268–284.
+
+O’Shannessy, C. (2010). [Competition between word order and case-marking in interpreting grammatical relations: a case study in multilingual acquisition](https://doi.org/10.1017/S0305000910000358). 38(4), 763–792.
 
 Ota, M., San José, A., & Smith, K. (2021). [The emergence of word-internal repetition through iterated learning: Explaining the mismatch between learning biases and language design](https://doi.org/10.1016/j.cognition.2021.104585). Cognition, 210, 1–25.
 
@@ -73,6 +93,8 @@ Raviv, L., Meyer, A., & Lev-Ari, S. (2019). [Larger communities create more syst
 Roberts, G., & Fedzechkina, M. (2018). [Social biases modulate the loss of redundant forms in the cultural evolution of language](https://doi.org/10.1016/j.cognition.2017.11.005). Cognition, 171, 194–201.
 
 Saffran, J. R., Aslin, R. N., & Newport, E. L. (1996). [Statistical learning by 8-month-old infants](https://doi.org/10.1126/science.274.5294.1926). Science, 274(5294), 1926–1928.
+
+Saldana, C., Herce, B., & Bickel, B. (2022). [A naturalness gradient shapes the learnability and cross-linguistic distribution of morphological paradigms](https://escholarship.org/uc/item/8wv9f99x). Proceedings of the Annual Meeting of the Cognitive Science Society, 44, 787-794. 
 
 Saldana, C., Kirby, S., Truswell, R., & Smith, K. (2019). [Compositional hierarchical structure evolves through cultural transmission: An experimental study](https://doi.org/10.1093/jole/lzz002). Journal of Language Evolution, 4(2), 83–107.
 
@@ -89,6 +111,10 @@ Smith, K. (2022). [How language learning and language use create linguistic stru
 Smith, K., & Wonnacott, E. (2010). [Eliminating unpredictable variation through iterated learning](https://doi.org/10.1016/j.cognition.2010.06.004). Cognition, 116(3), 444–449.
 
 Tabullo, Á., Arismendi, M., Wainselboim, A., Primero, G., Vernis, S., Segura, E., Zanutto, S., & Yorio, A. (2012). [On the learnability of frequent and infrequent word orders: An artificial language learning study](https://doi.org/10.1080/17470218.2012.677848). Quarterly Journal of Experimental Psychology, 65(9), 1848–1863.
+
+Tal, S., & Arnon, I. (2022). [Redundancy can benefit learning: Evidence from word order and case marking](https://doi.org/10.1016/j.cognition.2022.105055). Cognition, 224, 105055.
+
+Tal, S., Smith, K., Culbertson, J., Grossman, E., & Arnon, I. (2022). [The impact of information structure on the emergence of differential object marking: an experimental study](https://doi.org/10.1111/cogs.13119). Cognitive Science, 46(3), e13119.
 
 Tang, K., & Baer-Henney, D. (2021). [Modelling L1 and the artificial language during artificial language learning](https://doi.org/10.31234/osf.io/df8ru). PsyArXiv.
 
